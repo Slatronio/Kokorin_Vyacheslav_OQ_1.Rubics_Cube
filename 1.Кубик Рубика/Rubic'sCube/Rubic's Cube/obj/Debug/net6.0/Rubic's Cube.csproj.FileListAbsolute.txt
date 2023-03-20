@@ -1,0 +1,45 @@
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.exe
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.deps.json
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.runtimeconfig.json
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.pdb
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.csproj.AssemblyReference.cache
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.GeneratedMSBuildEditorConfig.editorconfig
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.AssemblyInfoInputs.cache
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.AssemblyInfo.cs
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.csproj.CoreCompileInputs.cache
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\refint\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.pdb
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.genruntimeconfig.cache
+F:\Универ\Прога\Олимпиадки\2 семестр\1. Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\ref\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.exe
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.deps.json
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.runtimeconfig.json
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.pdb
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.csproj.AssemblyReference.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.GeneratedMSBuildEditorConfig.editorconfig
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.AssemblyInfoInputs.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.AssemblyInfo.cs
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.csproj.CoreCompileInputs.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\refint\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.pdb
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.genruntimeconfig.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic's Cube\Rubic's Cube\obj\Debug\net6.0\ref\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.exe
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.deps.json
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.runtimeconfig.json
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\bin\Debug\net6.0\Rubic's Cube.pdb
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.csproj.AssemblyReference.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.GeneratedMSBuildEditorConfig.editorconfig
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.AssemblyInfoInputs.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.AssemblyInfo.cs
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.csproj.CoreCompileInputs.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\refint\Rubic's Cube.dll
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.pdb
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\Rubic's Cube.genruntimeconfig.cache
+F:\Универ\Прога\Олимпиадки\2семестр\1.Кубик Рубика\Rubic'sCube\Rubic's Cube\obj\Debug\net6.0\ref\Rubic's Cube.dll
